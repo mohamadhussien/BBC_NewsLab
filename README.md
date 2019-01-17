@@ -1,2 +1,10 @@
-# BBC_NewsLab
-Solutions for BBC News Labs coding exercise about data analytics 
+
+BBC News Labs Coding Exercise
+
+This is a repository for doing BBC News Labs Coding Exercise.
+
+
+Installation
+
+
+
