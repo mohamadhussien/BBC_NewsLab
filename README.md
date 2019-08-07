@@ -26,3 +26,5 @@ $ jupyter notebook article-Devices.ipynb
 Once the Notebook open in chrome browser, run all cells
 
 The output text files will be in the same dirctory as the project
+
+thank you!
